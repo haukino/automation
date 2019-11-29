@@ -2,7 +2,6 @@
 
   This code is provided to you, free of charge, by reddit user u/haukino 
 	It's based on the suggestions by u/SevenMonkeyFury - Thanks for that!
-	
 	See discussion here: https://www.reddit.com/r/OneNote/comments/e3148m/invisible_equations_in_dark_mode_on2016/
 	Feel free to adapt it to your needs and share if you have any improvements
 	
